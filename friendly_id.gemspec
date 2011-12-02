@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["RakutenUSA"]
   s.date = %q{2009-09-06}
-  s.description = %q{TODO}
+  s.description = %q{RakutenUSA's custom friendly_id gem.}
   s.email = %q{dev@rakutenusa.com}
   s.extra_rdoc_files = [
     "README.rdoc"
@@ -60,7 +60,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.2}
-  s.summary = %q{TODO}
+  s.summary = %q{RakutenUSA's custom friendly_id gem.}
   s.test_files = [
     "test/contest.rb",
      "test/custom_slug_normalizer_test.rb",
